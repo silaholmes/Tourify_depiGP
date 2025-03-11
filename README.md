@@ -27,5 +27,3 @@ The project follows these key stages:
 4. **Testing & Iteration**  
    - 🧪 **Usability Testing**  
    - ✍️ Refinements based on user feedback  
-
-## 📂 Project Structure  
